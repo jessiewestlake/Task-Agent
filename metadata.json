@@ -1,0 +1,5 @@
+{
+  "name": "Task Agent",
+  "description": "Create a live agent chatbot using bidirectional streaming; includes task management and customization.",
+  "requestFramePermissions": []
+}
